@@ -1,2 +1,2 @@
 # palmer_penguin
-### This data describes Palmer Archipelago (Antarctica) penguin data.
+### This project describes Palmer Archipelago (Antarctica) penguin data.
